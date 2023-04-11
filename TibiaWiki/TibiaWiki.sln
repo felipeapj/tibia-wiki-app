@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TibiaWiki.WebScrapper", "WebScrapper\TibiaWiki.WebScrapper\TibiaWiki.WebScrapper.csproj", "{784A26B9-F835-4310-A7C2-34DC70731E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TibiaWiki.App", "App\TibiaWiki.App\TibiaWiki.App.csproj", "{B67AE8E9-51B7-4EEC-8F5D-9B18D7A3B253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784A26B9-F835-4310-A7C2-34DC70731E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784A26B9-F835-4310-A7C2-34DC70731E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784A26B9-F835-4310-A7C2-34DC70731E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784A26B9-F835-4310-A7C2-34DC70731E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B67AE8E9-51B7-4EEC-8F5D-9B18D7A3B253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67AE8E9-51B7-4EEC-8F5D-9B18D7A3B253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67AE8E9-51B7-4EEC-8F5D-9B18D7A3B253}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B67AE8E9-51B7-4EEC-8F5D-9B18D7A3B253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67AE8E9-51B7-4EEC-8F5D-9B18D7A3B253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B67AE8E9-51B7-4EEC-8F5D-9B18D7A3B253}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE238275-566A-4518-860E-C0B30CE6E772}
+	EndGlobalSection
+EndGlobal
